@@ -1,4 +1,6 @@
 <base>
+[hk4]>[eql][t&h150][kp+]
+[rwin]>[lwin]
 {hk1}>{s5}{x1}{-lctr}{ins}{+lctr}
 {hk2}>{s5}{x1}{-lshf}{ins}{+lshf}
 <keypad>
