@@ -1,0 +1,11 @@
+<base>
+{hk1}>{s5}{x1}{-lctr}{ins}{+lctr}
+{hk2}>{s5}{x1}{-lshf}{ins}{+lshf}
+<keypad>
+<function1>
+[hk1]>[next]
+[hk3]>[vol+]
+[hk2]>[cpau]
+[hk4]>[vol-]
+<function2>
+<function3>
